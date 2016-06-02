@@ -1,9 +1,13 @@
-This project is the exercises I did as
-part of reading through Learn Ruby the 
-Hard Way by Zed A. Shaw.
+##  Questions:
 
-This work was done as a homework assignment
-for the [Davinci Coders](http://www.davincicoders.com/)
-class that I'm taking, titled "Building
-the Toolbelt of a Junior Ruby on Rails 
-Developer" taught by [Jason Noble](http://jasonnoble.org).
+Provide a link in your Readme.md that links to the documentation for the following classes:
+
+*  [Array](http://www.tutorialspoint.com/ruby/ruby_arrays.htm)
+*  [Hash](http://docs.ruby-lang.org/en/2.0.0/Hash.html)
+*  [Chronic (Rubygem)](http://chronic.rubyforge.org)
+
+Find two other relative links and add those to the Readme.md as well.
+
+*  [Link 1](https://www.codecademy.com/courses/ruby-beginner-en-F3loB/0/1?curriculum_id=5059f8619189a5000201fbcb)
+*  [Link 2](https://www.sitepoint.com/guide-ruby-collections-ii-hashes-sets-ranges/)
+
