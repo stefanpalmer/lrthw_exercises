@@ -1,0 +1,1 @@
+I like string interpolation better, simply because I am more used to it. This is the first exercise that I have done with string formatting, and I can see that it is useful especially when applying the same format to multiple values.
