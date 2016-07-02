@@ -1,0 +1,1 @@
+2. When triple-single-quotes are used instead of triple-double-quotes, the escape sequences are not processed. There is an advantage to using triple-single-quotes, when the programmer does not want the escape sequences to be processed yet.
